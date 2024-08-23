@@ -37,5 +37,5 @@ chat_sessions_database_path: "./chat_sessions/chat_sessions.db"
 
 youtube_api_key: ""
 
-langsmith_api_key: "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"
+langsmith_api_key: "lsv2_****
 
